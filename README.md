@@ -17,7 +17,7 @@ Click the below button to watch the video tutorial on deploying
 For passionate readers 😂 the documentation can be found [here](https://xditya.gitbook.io/telebot/)
 
 ## The Easier Way to install
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
 ## Support
